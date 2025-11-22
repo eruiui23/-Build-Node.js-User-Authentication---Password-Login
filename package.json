@@ -1,0 +1,28 @@
+{
+  "name": "-build-node.js-user-authentication---password-login",
+  "version": "1.0.0",
+  "description": "https://www.youtube.com/watch?v=Ud5xKCYQTjM",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "devStart" : "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eruiui23/-Build-Node.js-User-Authentication---Password-Login.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eruiui23/-Build-Node.js-User-Authentication---Password-Login/issues"
+  },
+  "homepage": "https://github.com/eruiui23/-Build-Node.js-User-Authentication---Password-Login#readme",
+  "dependencies": {
+    "bcrypt": "^6.0.0",
+    "express": "^5.1.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.11"
+  }
+}
